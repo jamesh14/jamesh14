@@ -1,8 +1,10 @@
-### Hi there 👋
-My name is James, I'm a postgraduate Computer Science student at the University of Sydney (2025–2027), passionate about vibe coding.
+### Hi there 👋  
+My name is James. I'm a postgraduate Computer Science student at the University of Sydney (2025–2027), passionate about vibe coding.
 
-- 🌱 Currently learning: Full-stack development, data structures and algorithms.
-- 🛠️ Past experience: Personal and tech projects developed during university.
+📍 Located in Sydney, Australia 🦘
+
+- 🌱 Currently learning: Full-stack development, data structures, and algorithms.  
+- 🛠️ Past experience: Personal and tech projects developed during university.  
 - 🔍 Interested in: Software development, AI, and game development.
 
 ---
@@ -22,7 +24,6 @@ My name is James, I'm a postgraduate Computer Science student at the University 
 ## 📫 Let's Connect
 
 - 📧 Email: james.inbox.inbox@gmail.com  
-- 🌐 Facebook: [facebook.com/james.he16](https://facebook.com/james.he16)
-
-
+- 🌐 Facebook: [facebook.com/james.he16](https://facebook.com/james.he16)  
+- 📱 Phone: 0424 855 889
 
