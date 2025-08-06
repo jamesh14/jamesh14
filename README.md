@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a postgraduate Computer Science student at the University of Sydney (2025–2027), passionate about vibe coding.
+My name is James, I'm a postgraduate Computer Science student at the University of Sydney (2025–2027), passionate about vibe coding.
 
 - 🌱 Currently learning: Full-stack development, data structures and algorithms.
 - 🛠️ Past experience: Personal and tech projects developed during university.
