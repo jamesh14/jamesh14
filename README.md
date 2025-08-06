@@ -19,13 +19,6 @@ My name is James, I'm a postgraduate Computer Science student at the University 
 
 ---
 
-## 📊 GitHub Stats
-
-![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesh14&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesh14&layout=compact)
-
----
-
 ## 📫 Let's Connect
 
 - 📧 Email: james.inbox.inbox@gmail.com  
