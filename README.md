@@ -31,5 +31,5 @@ My name is James. I'm a postgraduate Computer Science student at the University 
 
 - 📧 Email: james.inbox.inbox@gmail.com  
 - 🌐 Facebook: [facebook.com/james.he16](https://facebook.com/james.he16)  
-- 📱 Phone: 0424 855 889
+- 📱 Phone: +61 424 855 889
 
