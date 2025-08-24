@@ -25,6 +25,9 @@ My name is James, and I’m from Canada. I completed my bachelor’s degree at t
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![OpenRocket](https://img.shields.io/badge/-OpenRocket-FF6600?style=flat-square&logo=rocket&logoColor=white)
+![KiCad](https://img.shields.io/badge/-KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
+![Onshape](https://img.shields.io/badge/-Onshape-1B72BE?style=flat-square&logo=onshape&logoColor=white)
 
 
 
