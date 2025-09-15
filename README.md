@@ -1,5 +1,5 @@
 ### Hi there 👋  
-My name is James, and I’m from Canada. I completed my bachelor’s degree at the University of British Columbia. Currently, I’m a postgraduate Computer Science student at the University of Sydney (2025–2027), passionate about vibe coding.
+My name is James, and I’m from Canada. I completed my bachelor’s degree at the University of British Columbia. Currently, I’m a postgraduate Computer Science student at the University of Sydney (2025–2027), passionate about coding.
 
 📍 Located in Sydney, Australia 🦘
 
