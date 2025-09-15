@@ -35,7 +35,7 @@ My name is James, and I’m from Canada. I completed my bachelor’s degree at t
 
 ## 📫 Let's Connect
 
-- 📧 Email: james.inbox.inbox@gmail.com  
+- 📧 Email: hahe0080@uni.sydney.edu.au  
 - 🌐 Facebook: [facebook.com/james.he16](https://facebook.com/james.he16)  
 - 📱 Phone: +61 424 855 889
 
